@@ -1,0 +1,28 @@
+{
+  "name": "jquery.togglebutton",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Stonelinks/jquery.togglebutton",
+  "authors": [
+    "Lucas Doyle <lucas.p.doyle@gmail.com>"
+  ],
+  "description": "A quick and dirty toggle button plugin",
+  "main": "jquery.togglebutton.js",
+  "keywords": [
+    "jquery",
+    "toggle",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.1.1",
+    "font-awesome": "~4.0.3"
+  }
+}
