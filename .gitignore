@@ -10,5 +10,5 @@
 *.orig
 
 # javascript component directories to ignore
-#bower_components
+bower_components
 node_modules
